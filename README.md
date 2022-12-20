@@ -17,4 +17,5 @@
 7. 느낀점
 
 ![main](https://user-images.githubusercontent.com/22864305/208762203-12215b65-771f-470b-b1fe-af3d951dbdce.PNG)
-
+![main1](https://user-images.githubusercontent.com/22864305/208780580-532759cc-1539-439c-bfb4-cdfae70d2903.PNG)
+![main2](https://user-images.githubusercontent.com/22864305/208780588-23e3d47b-bf96-4160-9d11-27f93812292a.PNG)
